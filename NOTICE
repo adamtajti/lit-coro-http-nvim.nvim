@@ -1,0 +1,9 @@
+lit-coro-http.nvim
+Copyright 2025 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This is a fork of the [luvit/lit repository](https://github.com/luvit/lit). Most of the files in this repository is their work, the main changes here is just using nvim's libuv bindings instead of just requiring "uv", while also removing all components, which are not necessary for a http(s) client/server functionalities.
+Copyright 2014-2015 The Luvit Authors. All Rights Reserved.
+

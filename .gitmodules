@@ -1,3 +1,0 @@
-[submodule "deps/git"]
-	path = deps/git
-	url = https://github.com/creationix/lua-git.git
